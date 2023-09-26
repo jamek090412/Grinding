@@ -1,4 +1,5 @@
 from collections import defaultdict, deque
+from typing import List
 """
 https://leetcode.com/problems/find-if-path-exists-in-graph/
 """
